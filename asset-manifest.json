@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/galor/static/css/main.b6777d10.css",
-    "main.js": "/galor/static/js/main.16c37a3f.js",
+    "main.js": "/galor/static/js/main.d19c27b4.js",
     "static/js/787.ac4614c7.chunk.js": "/galor/static/js/787.ac4614c7.chunk.js",
     "index.html": "/galor/index.html",
     "main.b6777d10.css.map": "/galor/static/css/main.b6777d10.css.map",
-    "main.16c37a3f.js.map": "/galor/static/js/main.16c37a3f.js.map",
+    "main.d19c27b4.js.map": "/galor/static/js/main.d19c27b4.js.map",
     "787.ac4614c7.chunk.js.map": "/galor/static/js/787.ac4614c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6777d10.css",
-    "static/js/main.16c37a3f.js"
+    "static/js/main.d19c27b4.js"
   ]
 }
